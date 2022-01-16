@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rushipawarms
-- 👀 I’m interested in Frondend technologies
-- 🌱 I’m currently learning web 3.0 technnologies
+- #DSA & #Frontend
 
 
 <!---
