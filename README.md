@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rushipawarms
-- #DSA & #Frontend
+- 👋 Hi, I’m Rushikesh Pawar.
+- ✨ Interested in frontend technoogies and problem solving.
 
 
 <!---
