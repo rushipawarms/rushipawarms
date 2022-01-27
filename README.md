@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushikesh Pawar.
-- ✨ Interested in frontend technoogies and problem solving.
+- ✨ Interested in frontend technologies and problem solving.
 
 
 <!---
